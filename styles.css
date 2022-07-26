@@ -81,7 +81,7 @@ body{
     background-color: black;
     z-index: 2;
 }
-.container section header .botones_prev_next,.container section header .suscribcion{
+.container section header .botones_prev_next,.container section header .suscripcion{
     display: flex;
     justify-content: center;
     align-items: center;
@@ -92,10 +92,10 @@ body{
 .container section header .botones_prev_next span.btn_prev{
     margin-right: 1em;
 }
-.container section header .suscribcion .mejora_cuenta{
+.container section header .suscripcion .mejora_cuenta{
     margin-right: 1.5em;
 }
-.container section header .suscribcion .mejora_cuenta button{
+.container section header .suscripcion .mejora_cuenta button{
     background-color:transparent;
     border: 1px solid #ffffff;
     padding: 0.8em 1em ;
@@ -106,10 +106,10 @@ body{
     cursor: pointer;
     transition: all .2s;
 }
-.container section header .suscribcion .mejora_cuenta button:hover{
+.container section header .suscripcion .mejora_cuenta button:hover{
     transform: scale(1.1);
 }
-.container section header .suscribcion .perfil{
+.container section header .suscripcion .perfil{
     display: flex;
     justify-content: space-around;
     align-items: center;
@@ -120,7 +120,7 @@ body{
     cursor: pointer;
     z-index: 2;
 }
-.container section header .suscribcion .perfil .circulo{
+.container section header .suscripcion .perfil .circulo{
     background-color: #333333;
     border-radius: 50%;
     width: 28px;
